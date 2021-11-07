@@ -1,11 +1,13 @@
 
 # The Real Time Bus Tracker
 
+![Screenshot](https://github.com/veraphipps01/bus_tracker/blob/main/Screen.png)
+
 ## Description 
 This web page is a real time location tracker for a bus route in Cambridge, MA. This project demonstrates the ability to write async functions to fetch data from external sources.
 
 ## How to Run 
-Follow the link
+<a href="https://veraphipps01.github.io/bus_tracker" target="_blank">Follow the Link</a>.
 
 ## Future Improvements 
 
