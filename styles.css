@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 5;
+  }
+  #map {
+    position: absolute;
+    top: 50px;
+    bottom: 0;
+    width: 100%;
+  }
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5% 1fr 5%;
+    gap: 1px;
+}
+
+header{
+    grid-column: 1 / 4;
+}
+
+header{
+    font-family: Arial, Helvetica, sans-serif, serif;
+    padding: 10px;
+    border-style:ridge;
+    background: rgb(24, 25, 75);
+    font-size: 1.2em;
+    color: aliceblue;
+}
+
+
+
+
+
+  
