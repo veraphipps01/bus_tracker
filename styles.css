@@ -1,0 +1,25 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5% 1fr 5%;
+    gap: 1px;
+    
+}
+header, footer{
+    grid-column: 1 / 4;
+}
+header, footer{
+    padding: 10px;
+    border-style:ridge;
+    background: rgb(24, 25, 75);
+    font-size: 1.2em;
+    color: aliceblue;
+}
+.fonts{
+    font-family: Arial, Helvetica, sans-serif, serif;
+}
+
+
+
+
+  
